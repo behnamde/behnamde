@@ -6,9 +6,6 @@
 
 
 # My Resume
-Lisbon Metropolitan Area  
-[behnam.dehghani@gmail.com](mailto:behnam.dehghani@gmail.com) | +351932297030  
-[linkedin.com/in/behnam-dehghani](https://linkedin.com/in/behnam-dehghani)
 
 ## Summary
 As a seasoned Software and Data Engineering Lead with a Ph.D. in Artificial Intelligence and a Master's degree in Mechatronics Engineering, I bring over 15 years of experience in technology and engineering. My core expertise lies in Python development, where I have extensive experience in leveraging this language for innovative software solutions, data analysis, and automation. Alongside my Python proficiency, I am skilled in AI, natural language processing, and data science, consistently applying these technologies to develop cutting-edge software products. My background in both software development and data engineering positions me uniquely to lead teams in designing, implementing, and optimizing complex data systems and algorithms. Committed to driving technological innovation and excellence, I use my skills in problem-solving, project management, and Python programming to deliver impactful results and value in every project.
